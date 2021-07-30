@@ -23,6 +23,7 @@
 
 
 
+
 * ### Pre-trained Models ([Detailed Description](http://pretrain.nlpedia.ai/data/pdf/plm.pdf))
   * *Left-to-right Language Model*
   * *Masked Language Model* 
@@ -53,7 +54,6 @@
   * *Prompt Augmentation*: [\[48\]]() [\[47\]]()
   * *Prompt Composition*: [\[52\]]() 
   * *Prompt Decomposition*: [\[53\]]() 
-  * *Prompt Sharing*: [\[1\]]() [\[2\]]()
     
 * ### Prompt-based Training Strategies ([Detailed Description](http://pretrain.nlpedia.ai/data/pdf/learning.pdf))
   * Parameter Updating
@@ -66,6 +66,7 @@
     * *Zero-shot*: [\[34\]]() [\[43\]]()
     * *Few-shot*: [\[19\]]() [\[27\]]()
     * *Full-data*: [\[21\]]() [\[29\]]()
+
 
 
 ## Copyright and Acknowledgement
