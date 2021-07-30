@@ -22,24 +22,24 @@
 
 
 * ### Pre-trained Models ([Detailed Description](http://pretrain.nlpedia.ai/data/pdf/plm.pdf))
-  * *Left-to-right Language Model*: [\[1\]]() [\[2\]]()
-  * *Masked Language Model*: [\[1\]]() [\[2\]]()
+  * *Left-to-right Language Model*: [\[2\]]() [\[17\]]()
+  * *Masked Language Model*: [\[60\]]() [\[2\]]()
   * *Prefix Language Model*: [\[1\]]() [\[2\]]()
-  * *Encoder-Decoder*: [\[1\]]() [\[2\]]()
+  * *Encoder-Decoder*: [\[15\]]() [\[2\]]()
 * ### Prompt Engineering ([Detailed Description](http://pretrain.nlpedia.ai/data/pdf/template.pdf))
   * *Shape*
-    * *Cloze prompt*: [\[1\]]() [\[2\]]()
-    * *Prefix prompt*: [\[1\]]() [\[2\]]()
+    * *Cloze prompt*: [\[7\]]() [\[53\]]()
+    * *Prefix prompt*: [\[17\]]() [\[26\]]()
   * *Human Effort*
     * *Hand-crated*
     * *Automated*
-        - *Discrete*: [\[1\]]() [\[2\]]()
-        - *Continuous*: [\[1\]]() [\[2\]]()
+        - *Discrete*: [\[24\]]() [\[27\]]()
+        - *Continuous*: [\[29\]]() [\[59\]]()
 * ### Answer Engineering ([Detailed Description](http://pretrain.nlpedia.ai/data/pdf/answer.pdf))
   * *Shape*
-    * *Token*: [\[1\]]() [\[2\]]()
-    * *Span*: [\[1\]]() [\[2\]]()
-    * *Sentence*: [\[1\]]() [\[2\]]()
+    * *Token*: [\[53\]]() [\[7\]]()
+    * *Span*: [\[19\]]() [\[22\]]()
+    * *Sentence*: [\[17\]]() [\[29\]]()
   * Human Effort
     * *Hand-crated*: [\[1\]]() [\[2\]]()
     * *Automated*
@@ -64,7 +64,6 @@
     * *Zero-shot*: [\[1\]]() [\[2\]]()
     * *Few-shot*: [\[1\]]() [\[2\]]()
     * *Full-data*: [\[1\]]() [\[2\]]()
-    
  
 ## Copyright and Acknowledgement
 * If you aim to use the picture from our github repo or survey, please state the source of these pictures.
