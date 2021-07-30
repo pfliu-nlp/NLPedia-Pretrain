@@ -5,7 +5,7 @@
 
  
 
-# Typology of Prompt-based Learning
+# Typology of Prompt-based Learning [Know More?](https://arxiv.org/pdf/2107.13586.pdf)
 
 * ### Pre-trained Models
   * Left-to-right Language Model: [\[1\]](); [\[2\]]()
