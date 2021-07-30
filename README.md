@@ -12,7 +12,7 @@
 
 
  
-
+## Prompt Typology
 
 
 * ### Pre-trained Models ([Detailed Description](http://pretrain.nlpedia.ai/data/pdf/plm.pdf))
