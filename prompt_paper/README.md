@@ -1,4 +1,5 @@
-# Prompt-based Learning Research Papers 
+# Prompt-based Learning Research Papers
+> Feel free to let us know our missed papers (```issue``` or ```pull request```)
 <img src="../fig/talk.png" width="600" class="center">
 
 
