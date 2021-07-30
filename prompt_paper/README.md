@@ -197,7 +197,7 @@ Tuning-free Prompting
 
 
 
-#### \[1\] [A Simple Method for Commonsense Reasoning](https://arxiv.org/pdf/1806.02847.pdf)      ```2020-02-12``` 
+#### \[1\] [A Simple Method for Commonsense Reasoning](https://arxiv.org/pdf/1806.02847.pdf)      ```2020-06-07``` 
 
 *Trieu H. Trinh,Quoc V. Le*   
 
