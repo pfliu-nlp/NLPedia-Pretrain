@@ -200,13 +200,14 @@ Tuning-free Prompting
 Tuning-free Prompting
 
 
- ![](https://img.shields.io/badge/2020_02_12-blue) 
+
 \[1\]. [A Simple Method for Commonsense Reasoning]() 
-Tuning-free Prompting
 
 
-#### \[1\] [A Simple Method for Commonsense Reasoning]()      ```2020-02-12``` 
 
-*Timo Schick,Hinrich Schütze*
+#### \[1\] [A Simple Method for Commonsense Reasoning](https://arxiv.org/pdf/1806.02847.pdf)      ```2020-02-12``` 
+
+*Trieu H. Trinh,Quoc V. Le*   
+
 
 
