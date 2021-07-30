@@ -14,8 +14,8 @@
   * Human Effort
     * Hand-crated
     * Automated
-        * Discrete
-        * Continuous
+        - Discrete
+        - Continuous
 * Answer Engineering
 * Multi-Prompt Learning
 * Prompt-based Traning Strategies
