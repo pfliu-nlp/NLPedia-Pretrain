@@ -41,68 +41,86 @@ Fixed-LM Prompt Tuning; LM+Prompt Tuning
 Why Do Pretrained Language Models Help in Downstream Tasks? An Analysis of Head and Prompt Tuning16 June, 2021
 Fixed-LM Prompt Tuning
 
-Reordering Examples Helps during Priming-based Few-Shot Learning3 June, 2021
-Tuning-free Prompting
 
-Template-Based Named Entity Recognition Using BART3 June, 2021
-Fixed-prompt LM Tuning
+#### \[53\] [Reordering Examples Helps during Priming-based Few-Shot Learning](https://arxiv.org/pdf/2106.01751.pdf)      ```2021-06-03``` 
+*Sawan Kumar,Partha P. Talukdar* 
 
-PTR: Prompt Tuning with Rules for Text Classification24 May, 2021
-LM+Prompt Tuning
 
-True Few-Shot Learning with Language Models24 May, 2021
-Tuning-free Prompting; Fixed-prompt LM Tuning
+#### \[52\] [Template-Based Named Entity Recognition Using BART](https://arxiv.org/pdf/2106.01760.pdf)      ```2021-06-03``` 
+*Leyang Cui,Yu Wu,Jian Liu,Sen Yang,Yue Zhang* 
 
-PanGu-α: Large-scale Autoregressive Pretrained Chinese Language Models with Auto-parallel Computation26 April, 2021
-Tuning-free Prompting
 
-Constrained Language Models Yield Few-Shot Semantic Parsers18 April, 2021
-Tuning-free Prompting
+#### \[51\] [PTR: Prompt Tuning with Rules for Text Classification](https://arxiv.org/pdf/2105.11259.pdf)      ```2021-05-24``` 
+*Xu Han,Weilin Zhao,Ning Ding,Zhiyuan Liu,Maosong Sun* 
 
-Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity18 April, 2021
-Tuning-free Prompting
 
-Natural Instructions: Benchmarking Generalization to New Tasks from Natural Language Instructions18 April, 2021
-Tuning-free Prompting; Fixed-prompt LM Tuning
+#### \[50\] [True Few-Shot Learning with Language Models](https://arxiv.org/pdf/2105.11447.pdf)      ```2021-05-24``` 
+*Ethan Perez,Douwe Kiela,Kyunghyun Cho* 
 
-The Power of Scale for Parameter-Efficient Prompt Tuning18 April, 2021
-Fixed-LM Prompt Tuning
 
-Surface Form Competition: Why the Highest Probability Answer Isn't Always Right16 April, 2021
-Tuning-free Prompting
+#### \[49\] [PanGu-α: Large-scale Autoregressive Pretrained Chinese Language Models with Auto-parallel Computation](https://arxiv.org/pdf/2104.12369.pdf)      ```2021-04-26``` 
+*Wei Zeng,Xiaozhe Ren,Teng Su,Hui Wang,Yi Liao,Zhiwei Wang,Xin Jiang,ZhenZhang Yang,Kaisheng Wang,Xiaoda Zhang,Chen Li,Ziyan Gong,Yifan Yao,Xinjing Huang,Jun Wang,Jianfeng Yu,Qi Guo,Yue Yu,Yan Zhang,Jin Wang,Hengtao Tao,Dasen Yan,Zexuan Yi,Fang Peng,Fangqing Jiang,Han Zhang,Lingfeng Deng,Yehong Zhang,Zhe Lin,Chao Zhang,Shaojie Zhang,Mingyue Guo,Shanzhi Gu,Gaojun Fan,Yaowei Wang,Xuefeng Jin,Qun Liu,Yonghong Tian* 
 
-AdaPrompt: Adaptive Prompt-based Finetuning for Relation Extraction15 April, 2021
-Fixed-prompt LM Tuning
 
-Generating Datasets with Pretrained Language Models15 April, 2021
-Tuning-free Prompting
+#### \[48\] [Constrained Language Models Yield Few-Shot Semantic Parsers](https://arxiv.org/pdf/2104.08768.pdf)      ```2021-04-18``` 
+*Richard Shin,Christopher H. Lin,Sam Thomson,Charles Chen,Subhro Roy,Emmanouil Antonios Platanios,Adam Pauls,Dan Klein,Jason Eisner,Benjamin Van Durme* 
 
-Learning How to Ask: Querying LMs with Mixtures of Soft Prompts14 April, 2021
-Fixed-LM Prompt Tuning
 
-Factual Probing Is [MASK]: Learning vs. Learning to Recall12 April, 2021
-Fixed-LM Prompt Tuning
+#### \[47\] [Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity](https://arxiv.org/pdf/2104.08786.pdf)      ```2021-04-18``` 
+*Yao Lu,Max Bartolo,Alastair Moore,Sebastian Riedel,Pontus Stenetorp* 
 
-Meta-tuning Language Models to Answer Prompts Better10 April, 2021
-Fixed-prompt LM Tuning
 
-Improving and Simplifying Pattern Exploiting Training22 March, 2021
-Fixed-prompt LM Tuning
+#### \[46\] [Natural Instructions: Benchmarking Generalization to New Tasks from Natural Language Instructions](https://arxiv.org/pdf/2104.08773.pdf)      ```2021-04-18``` 
+*Swaroop Mishra,Daniel Khashabi,Chitta Baral,Hannaneh Hajishirzi* 
 
-All NLP Tasks Are Generation Tasks: A General Pretraining Framework18 March, 2021
-Fixed-prompt LM Tuning
 
-GPT Understands, Too18 March, 2021
-Tuning-free Prompting; LM+Prompt Tuning
+#### \[45\] [The Power of Scale for Parameter-Efficient Prompt Tuning](https://arxiv.org/pdf/2104.08691.pdf)      ```2021-04-18``` 
+*Brian Lester,Rami Al-Rfou,Noah Constant* 
 
-How Many Data Points is a Prompt Worth?15 March, 2021
-Fixed-prompt LM Tuning
 
-BERTese: Learning to Speak to BERT9 March, 2021
-Tuning-free Prompting
+#### \[45\] [Surface Form Competition: Why the Highest Probability Answer Isn't Always Right](https://arxiv.org/pdf/2104.08315.pdf)      ```2021-04-16``` 
+*Ari Holtzman,Peter West,Vered Shwartz,Yejin Choi,Luke Zettlemoyer* 
 
-27 February, 2021
-Tuning-free Prompting
+
+#### \[44\] [AdaPrompt: Adaptive Prompt-based Finetuning for Relation Extraction](https://arxiv.org/pdf/2104.07650.pdf)      ```2021-04-15``` 
+*Xiang Chen,Xin Xie,Ningyu Zhang,Jiahuan Yan,Shumin Deng,Chuanqi Tan,Fei Huang,Luo Si,Huajun Chen* 
+
+
+#### \[43\] [Generating Datasets with Pretrained Language Models](https://arxiv.org/pdf/2104.07540.pdf)      ```2021-04-15``` 
+*Timo Schick,Hinrich Schütze* 
+
+
+#### \[42\] [Learning How to Ask: Querying LMs with Mixtures of Soft Prompts](https://aclanthology.org/2021.naacl-main.410.pdf)      ```2021-04-14``` 
+*Guanghui Qin,Jason Eisner* 
+
+
+#### \[41\] [Factual Probing Is [MASK]: Learning vs. Learning to Recall](https://aclanthology.org/2021.naacl-main.398.pdf)      ```2021-04-12``` 
+*Zexuan Zhong,Dan Friedman,Danqi Chen*
+
+
+#### \[40\] [Meta-tuning Language Models to Answer Prompts Better](https://arxiv.org/pdf/2104.04670.pdf)      ```2021-04-10``` 
+*Ruiqi Zhong,Kristy Lee,Zheng Zhang,Dan Klein*
+
+
+#### \[39\] [Improving and Simplifying Pattern Exploiting Training](https://arxiv.org/pdf/2103.11955.pdf)      ```2021-03-22``` 
+*Derek Tam,R. R. Menon,M. Bansal,Shashank Srivastava,Colin Raffel*
+
+
+#### \[38\] [All NLP Tasks Are Generation Tasks: A General Pretraining Framework](https://arxiv.org/pdf/2103.10360.pdf)      ```2021-03-18``` 
+*Zhengxiao Du,Yujie Qian,Xiao Liu,Ming Ding,J. Qiu,Zhilin Yang,Jie Tang*
+
+
+#### \[37\] [GPT Understands, Too](https://arxiv.org/pdf/2103.10385.pdf)      ```2021-03-18``` 
+*Xiao Liu,Yanan Zheng,Zhengxiao Du,Ming Ding,Yujie Qian,Zhilin Yang,Jie Tang*
+
+
+#### \[36\] [How Many Data Points is a Prompt Worth?](https://aclanthology.org/2021.naacl-main.208.pdf)      ```2021-03-15``` 
+*Teven Le Scao,Alexander M. Rush*
+
+
+#### \[35\] [BERTese: Learning to Speak to BERT](https://aclanthology.org/2021.eacl-main.316.pdf)      ```2021-03-09``` 
+*Adi Haviv,Jonathan Berant,Amir Globerson*
+
 
 #### \[34\] [Self-Diagnosis and Self-Debiasing: A Proposal for Reducing Corpus-Based Bias in NLP](https://arxiv.org/pdf/2103.00453.pdf)      ```2021-02-27``` 
 *Timo Schick,Sahana Udupa,Hinrich Schütze*
@@ -238,6 +256,5 @@ Tuning-free Prompting
 
 #### \[1\] [A Simple Method for Commonsense Reasoning](https://arxiv.org/pdf/1806.02847.pdf)      ```2020-06-07``` 
 *Trieu H. Trinh,Quoc V. Le*   
-
 
 
