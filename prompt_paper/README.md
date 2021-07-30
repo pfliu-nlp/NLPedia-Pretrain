@@ -175,20 +175,22 @@ Tuning-free Prompting
 Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer23 October, 2019
 Fixed-prompt LM Tuning
 
-CTRL: A Conditional Transformer Language Model for Controllable Generation11 September, 2019
-Fixed-prompt LM Tuning
 
-Language Models as Knowledge Bases?3 September, 2019
-Tuning-free Prompting
+#### \[8\] [CTRL: A Conditional Transformer Language Model for Controllable Generation](https://arxiv.org/pdf/1909.05858.pdf)      ```2019-09-11``` 
+*Nitish Shirish Keskar,Bryan McCann,Lav R. Varshney,Caiming Xiong,Richard Socher*
 
-Commonsense Knowledge Mining from Pretrained Models2 September, 2019
-Tuning-free Prompting
 
-Universal Adversarial Triggers for Attacking and Analyzing NLP20 August, 2019
-Tuning-free Prompting
+#### \[7\] [Language Models as Knowledge Bases?](https://aclanthology.org/D19-1250.pdf)      ```2019-09-03``` 
+*Fabio Petroni,Tim Rocktaschel,Patrick Lewis,Anton Bakhtin,Yuxiang Wu,Alexander H. Miller,Sebastian Riedel*
 
-31 July, 2019
-Tuning-free Prompting
+
+#### \[6\] [Commonsense Knowledge Mining from Pretrained Models](https://aclanthology.org/D19-1109.pdf)      ```2019-09-02``` 
+*Joshua Feldman, Joe Davison, Alexander M. Rush*
+
+
+#### \[5\] [Universal Adversarial Triggers for Attacking and Analyzing NLP](https://aclanthology.org/D19-1221.pdf)      ```2019-08-20``` 
+*Eric Wallace,Shi Feng,Nikhil Kandpal,Matt Gardner,Sameer Singh*
+
 
 #### \[4\] [What BERT is Not: Lessons from a New Suite of Psycholinguistic Diagnostics for Language Models](https://aclanthology.org/2020.tacl-1.3.pdf)      ```2019-07-31``` 
 *Allyson Ettinger*
@@ -199,12 +201,10 @@ Tuning-free Prompting
 
 
 #### \[2\] [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf)      ```2019-02-14``` 
-
 *Alec Radford,Jeffrey Wu,Rewon Child,David Luan,Dario Amodei,Ilya Sutskever* 
 
 
 #### \[1\] [A Simple Method for Commonsense Reasoning](https://arxiv.org/pdf/1806.02847.pdf)      ```2020-06-07``` 
-
 *Trieu H. Trinh,Quoc V. Le*   
 
 
