@@ -9,10 +9,12 @@
 [**Bib**](http://explainaboard.nlpedia.ai/explainaboard.bib)
 
 
-
+<p align="center">
+  <img src="./fig/bg.png" width="600" class="center">
+</p>
 
  
-## Prompt Typology
+## Pre-train, Prompt, Predict
 
 
 * ### Pre-trained Models ([Detailed Description](http://pretrain.nlpedia.ai/data/pdf/plm.pdf))
