@@ -24,10 +24,10 @@
 
 
 * ### Pre-trained Models ([Detailed Description](http://pretrain.nlpedia.ai/data/pdf/plm.pdf))
-  * *Left-to-right Language Model*: [\[2\]]() [\[17\]]()
-  * *Masked Language Model*: [\[60\]]() [\[2\]]()
-  * *Prefix Language Model*: [\[1\]]() [\[2\]]()
-  * *Encoder-Decoder*: [\[15\]]() [\[2\]]()
+  * *Left-to-right Language Model*
+  * *Masked Language Model* 
+  * *Prefix Language Model*
+  * *Encoder-Decoder*
 * ### Prompt Engineering ([Detailed Description](http://pretrain.nlpedia.ai/data/pdf/template.pdf))
   * *Shape*
     * *Cloze prompt*: [\[7\]]() [\[53\]]()
@@ -57,7 +57,7 @@
     
 * ### Prompt-based Training Strategies ([Detailed Description](http://pretrain.nlpedia.ai/data/pdf/learning.pdf))
   * Parameter Updating
-    * *Promptless Fine-tuning*: [\[1\]]() [\[2\]]()
+    * *Promptless Fine-tuning*
     * *Tuning-free Prompting*: [\[17\]]() [\[7\]]()
     * *Fixed-LM Prompt Tuning*: [\[29\]]() [\[28\]]()
     * *Fixed-prompt LM Tuning*: [\[26\]]() [\[13\]]()
