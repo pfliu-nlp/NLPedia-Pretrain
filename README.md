@@ -13,10 +13,10 @@
   * Prefix Language Model: [\[1\]](); [\[2\]]()
   * Encoder-Decoder: [\[1\]](); [\[2\]]()
 * ### Prompt Engineering
-  * ##### Shape
+  * Shape
     * Cloze prompt: [\[1\]](); [\[2\]]()
     * Prefix prompt: [\[1\]](); [\[2\]]()
-  * ##### Human Effort
+  * Human Effort
     * Hand-crated
     * Automated
         - Discrete: [\[1\]](); [\[2\]]()
