@@ -1,17 +1,18 @@
-# Pre-train, Prompt, Predict
 
-<img src="./fig/bg.png" width="800" class="center">
+
+  <img src="./fig/bg.png" width="800" class="center">
 
 
  
 
+# Typology of Prompt-based Learning
 
 * ### Pre-trained Models
   * #### Left-to-right Language Model: [\[1\]](); [\[2\]]()
   * Masked Language Model
   * Prefix Language Model
   * Encoder-Decoder
-* Prompt Engineering
+* ### Prompt Engineering
   * Shape
     * Cloze prompt
     * Prefix prompt
@@ -20,7 +21,7 @@
     * Automated
         - Discrete
         - Continuous
-* Answer Engineering
+* ### Answer Engineering
   * Shape
     * Token
     * Span
@@ -31,14 +32,14 @@
         - Discrete
         - Continuous   
     
-* Multi-Prompt Learning
+* ### Multi-Prompt Learning
   * Prompt Ensemble
   * Prompt Augmentation
   * Prompt Composition
   * Prompt Decomposition
   * Prompt Sharing
     
-* Prompt-based Training Strategies
+* ### Prompt-based Training Strategies
   * Parameter Updating
     * Promptless Fine-tuning
     * Tuning-free Prompting
