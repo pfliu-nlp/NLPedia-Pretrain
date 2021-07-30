@@ -1,10 +1,10 @@
 # Pre-train, Prompt, Predict
 
-[**Typology**](#introduction) | 
+[**Typology**](https://github.com/pfliu-nlp/NLPedia-Pretrain/blob/main/README.md#typology-of-prompting-methods) | 
 [**Prompt Paper**](https://github.com/neulab/ExplainaBoard#web-based-toolkit-quick-learning) |
 [**Pretrained LM Family**](#api-based-toolkit-quick-installation) |
-[**Survey**](#download-system-outputs) |
-[**Website**](https://arxiv.org/pdf/2104.06387.pdf) |
+[**Survey**](https://arxiv.org/pdf/2107.13586.pdf) |
+[**Website**](http://pretrain.nlpedia.ai/) |
 [**Copyright**](https://www.youtube.com/watch?v=3X6NgpbN_GU) |
 [**Bib**](http://explainaboard.nlpedia.ai/explainaboard.bib)
 
