@@ -15,7 +15,7 @@
  
  
 
-> Feel free to let us know our missed papers (```issue``` or ```pull request```)
+
  
 ## Typology of Prompting Methods
 
@@ -65,3 +65,6 @@
     * *Full-data*: [\[1\]]() [\[2\]]()
     
  
+## Copyright
+* If you aim to use picture from our github repo or survey, please state the source of these pictures.
+* 
