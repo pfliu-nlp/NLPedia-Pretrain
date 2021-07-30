@@ -1,80 +1,77 @@
-# Prompt-based Learning Research Papers
-> Feel free to let us know the missing papers (```issue``` or ```pull request```)
-
-> We highly recommend using the [interactive paperlist]((http://explainaboard.nlpedia.ai/leaderboard/prompting/)) for prompt-based learning.
- 
+# Prompt-based Learning Research Papers 
 <img src="../fig/talk.png" width="600" class="center">
 
 
-#### \[62\] [FLEX: Unifying Evaluation for Few-Shot NLP](https://arxiv.org/pdf/2107.07170.pdf)      ```2021-07-15``` 
+
+#### \[63\] [FLEX: Unifying Evaluation for Few-Shot NLP](https://arxiv.org/pdf/2107.07170.pdf)      ```2021-07-15``` 
 *Jonathan Bragg,Arman Cohan,Kyle Lo,Iz Beltagy* 
 
 
-#### \[61\] [HTLM: Hyper-Text Pre-Training and Prompting of Language Models](https://arxiv.org/pdf/2107.06955.pdf)      ```2021-07-14``` 
+#### \[62\] [HTLM: Hyper-Text Pre-Training and Prompting of Language Models](https://arxiv.org/pdf/2107.06955.pdf)      ```2021-07-14``` 
 *Armen Aghajanyan,Dmytro Okhonko,Mike Lewis,Mandar Joshi,Hu Xu,Gargi Ghosh,Luke Zettlemoyer* 
 
 
-#### \[60\] [Evaluating Large Language Models Trained on Code](https://arxiv.org/pdf/2107.03374.pdf)      ```2021-07-07``` 
+#### \[61\] [Evaluating Large Language Models Trained on Code](https://arxiv.org/pdf/2107.03374.pdf)      ```2021-07-07``` 
 *Mark Chen,Jerry Tworek,Heewoo Jun,Qiming Yuan,Henrique Ponde de Oliveira Pinto,Jared Kaplan,Harrison Edwards,Yuri Burda,Nicholas Joseph,Greg Brockman,Alex Ray,Raul Puri,Gretchen Krueger,Michael Petrov,Heidy Khlaaf,Girish Sastry,Pamela Mishkin,Brooke Chan,Scott Gray,Nick Ryder,Mikhail Pavlov,Alethea Power,Lukasz Kaiser,Mohammad Bavarian,Clemens Winter,Philippe Tillet,Felipe Petroski Such,Dave Cummings,Matthias Plappert,Fotios Chantzis,Elizabeth Barnes,Ariel Herbert-Voss,William Hebgen Guss,Alex Nichol,Alex Paino,Nikolas Tezak,Jie Tang,Igor Babuschkin,Suchir Balaji,Shantanu Jain,William Saunders,Christopher Hesse,Andrew N. Carr,Jan Leike,Joshua Achiam,Vedant Misra,Evan Morikawa,Alec Radford,Matthew Knight,Miles Brundage,Mira Murati,Katie Mayer,Peter Welinder,Bob McGrew,Dario Amodei,Sam McCandlish,Ilya Sutskever,Wojciech Zaremba* 
 
 
-#### \[59\] [ERNIE 3.0: Large-scale Knowledge Enhanced Pre-training for Language Understanding and Generation](https://arxiv.org/pdf/2107.02137.pdf)      ```2021-07-05``` 
+#### \[60\] [ERNIE 3.0: Large-scale Knowledge Enhanced Pre-training for Language Understanding and Generation](https://arxiv.org/pdf/2107.02137.pdf)      ```2021-07-05``` 
 *Yu Sun,Shuohuan Wang,Shikun Feng,Siyu Ding,Chao Pang,Junyuan Shang,Jiaxiang Liu,Xuyi Chen,Yanbin Zhao,Yuxiang Lu,Weixin Liu,Zhihua Wu,Weibao Gong,Jianzhong Liang,Zhizhou Shang,Peng Sun,Wei Liu,Xuan Ouyang,Dianhai Yu,Hao Tian,Hua Wu,Haifeng Wang* 
 
 
-#### \[58\] [Multimodal Few-Shot Learning with Frozen Language Models](https://arxiv.org/pdf/2106.13884.pdf)      ```2021-06-25``` 
+#### \[59\] [Multimodal Few-Shot Learning with Frozen Language Models](https://arxiv.org/pdf/2106.13884.pdf)      ```2021-06-25``` 
 *Maria Tsimpoukelli,Jacob Menick,Serkan Cabi,S. M. Ali Eslami,Oriol Vinyals,Felix Hill* 
 
 
-#### \[57\] [Cutting Down on Prompts and Parameters: Simple Few-Shot Learning with Language Models](https://arxiv.org/pdf/2106.13353.pdf)      ```2021-06-24``` 
+#### \[58\] [Cutting Down on Prompts and Parameters: Simple Few-Shot Learning with Language Models](https://arxiv.org/pdf/2106.13353.pdf)      ```2021-06-24``` 
 *Robert L. Logan IV,Ivana Balazevic,Eric Wallace,Fabio Petroni,Sameer Singh,Sebastian Riedel* 
 
 
-#### \[56\] [BARTScore: Evaluating Generated Text as Text Generation](https://arxiv.org/pdf/2106.11520.pdf)      ```2021-06-21``` 
+#### \[57\] [BARTScore: Evaluating Generated Text as Text Generation](https://arxiv.org/pdf/2106.11520.pdf)      ```2021-06-21``` 
 *Weizhe Yuan,Graham Neubig,Pengfei Liu* 
 
 
-#### \[55\] [CPM-2: Large-scale Cost-effective Pre-trained Language Models](https://arxiv.org/pdf/2106.10715.pdf)      ```2021-06-20``` 
+#### \[56\] [CPM-2: Large-scale Cost-effective Pre-trained Language Models](https://arxiv.org/pdf/2106.10715.pdf)      ```2021-06-20``` 
 *Zhengyan Zhang,Yuxian Gu,Xu Han,Shengqi Chen,Chaojun Xiao,Zhenbo Sun,Yuan Yao,Fanchao Qi,Jian Guan,Pei Ke,Yanzheng Cai,Guoyang Zeng,Zhixing Tan,Zhiyuan Liu,Minlie Huang,Wentao Han,Yang Liu,Xiaoyan Zhu,Maosong Sun* 
 
 
-#### \[54\] [Why Do Pretrained Language Models Help in Downstream Tasks? An Analysis of Head and Prompt Tuning](https://arxiv.org/pdf/2106.09226.pdf)      ```2021-06-16``` 
+#### \[55\] [Why Do Pretrained Language Models Help in Downstream Tasks? An Analysis of Head and Prompt Tuning](https://arxiv.org/pdf/2106.09226.pdf)      ```2021-06-16``` 
 *Colin Wei,Sang Michael Xie,Tengyu Ma* 
 
 
-#### \[53\] [Reordering Examples Helps during Priming-based Few-Shot Learning](https://arxiv.org/pdf/2106.01751.pdf)      ```2021-06-03``` 
+#### \[54\] [Reordering Examples Helps during Priming-based Few-Shot Learning](https://arxiv.org/pdf/2106.01751.pdf)      ```2021-06-03``` 
 *Sawan Kumar,Partha P. Talukdar* 
 
 
-#### \[52\] [Template-Based Named Entity Recognition Using BART](https://arxiv.org/pdf/2106.01760.pdf)      ```2021-06-03``` 
+#### \[53\] [Template-Based Named Entity Recognition Using BART](https://arxiv.org/pdf/2106.01760.pdf)      ```2021-06-03``` 
 *Leyang Cui,Yu Wu,Jian Liu,Sen Yang,Yue Zhang* 
 
 
-#### \[51\] [PTR: Prompt Tuning with Rules for Text Classification](https://arxiv.org/pdf/2105.11259.pdf)      ```2021-05-24``` 
+#### \[52\] [PTR: Prompt Tuning with Rules for Text Classification](https://arxiv.org/pdf/2105.11259.pdf)      ```2021-05-24``` 
 *Xu Han,Weilin Zhao,Ning Ding,Zhiyuan Liu,Maosong Sun* 
 
 
-#### \[50\] [True Few-Shot Learning with Language Models](https://arxiv.org/pdf/2105.11447.pdf)      ```2021-05-24``` 
+#### \[51\] [True Few-Shot Learning with Language Models](https://arxiv.org/pdf/2105.11447.pdf)      ```2021-05-24``` 
 *Ethan Perez,Douwe Kiela,Kyunghyun Cho* 
 
 
-#### \[49\] [PanGu-α: Large-scale Autoregressive Pretrained Chinese Language Models with Auto-parallel Computation](https://arxiv.org/pdf/2104.12369.pdf)      ```2021-04-26``` 
+#### \[50\] [PanGu-α: Large-scale Autoregressive Pretrained Chinese Language Models with Auto-parallel Computation](https://arxiv.org/pdf/2104.12369.pdf)      ```2021-04-26``` 
 *Wei Zeng,Xiaozhe Ren,Teng Su,Hui Wang,Yi Liao,Zhiwei Wang,Xin Jiang,ZhenZhang Yang,Kaisheng Wang,Xiaoda Zhang,Chen Li,Ziyan Gong,Yifan Yao,Xinjing Huang,Jun Wang,Jianfeng Yu,Qi Guo,Yue Yu,Yan Zhang,Jin Wang,Hengtao Tao,Dasen Yan,Zexuan Yi,Fang Peng,Fangqing Jiang,Han Zhang,Lingfeng Deng,Yehong Zhang,Zhe Lin,Chao Zhang,Shaojie Zhang,Mingyue Guo,Shanzhi Gu,Gaojun Fan,Yaowei Wang,Xuefeng Jin,Qun Liu,Yonghong Tian* 
 
 
-#### \[48\] [Constrained Language Models Yield Few-Shot Semantic Parsers](https://arxiv.org/pdf/2104.08768.pdf)      ```2021-04-18``` 
+#### \[49\] [Constrained Language Models Yield Few-Shot Semantic Parsers](https://arxiv.org/pdf/2104.08768.pdf)      ```2021-04-18``` 
 *Richard Shin,Christopher H. Lin,Sam Thomson,Charles Chen,Subhro Roy,Emmanouil Antonios Platanios,Adam Pauls,Dan Klein,Jason Eisner,Benjamin Van Durme* 
 
 
-#### \[47\] [Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity](https://arxiv.org/pdf/2104.08786.pdf)      ```2021-04-18``` 
+#### \[48\] [Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity](https://arxiv.org/pdf/2104.08786.pdf)      ```2021-04-18``` 
 *Yao Lu,Max Bartolo,Alastair Moore,Sebastian Riedel,Pontus Stenetorp* 
 
 
-#### \[46\] [Natural Instructions: Benchmarking Generalization to New Tasks from Natural Language Instructions](https://arxiv.org/pdf/2104.08773.pdf)      ```2021-04-18``` 
+#### \[47\] [Natural Instructions: Benchmarking Generalization to New Tasks from Natural Language Instructions](https://arxiv.org/pdf/2104.08773.pdf)      ```2021-04-18``` 
 *Swaroop Mishra,Daniel Khashabi,Chitta Baral,Hannaneh Hajishirzi* 
 
 
-#### \[45\] [The Power of Scale for Parameter-Efficient Prompt Tuning](https://arxiv.org/pdf/2104.08691.pdf)      ```2021-04-18``` 
+#### \[46\] [The Power of Scale for Parameter-Efficient Prompt Tuning](https://arxiv.org/pdf/2104.08691.pdf)      ```2021-04-18``` 
 *Brian Lester,Rami Al-Rfou,Noah Constant* 
 
 
