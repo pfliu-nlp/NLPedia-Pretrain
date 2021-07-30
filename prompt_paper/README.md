@@ -205,7 +205,7 @@ Tuning-free Prompting
 Tuning-free Prompting
 
 
-#### 1 [A Simple Method for Commonsense Reasoning]()      ```2020-02-12``` 
+####[1] [A Simple Method for Commonsense Reasoning]()      ```2020-02-12``` 
 
 *Timo Schick,Hinrich Schütze*
 
