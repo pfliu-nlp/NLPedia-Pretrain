@@ -65,5 +65,5 @@
     
  
 ## Copyright and Acknowledgement
-* If you aim to use picture from our github repo or survey, please state the source of these pictures.
+* If you aim to use the picture from our github repo or survey, please state the source of these pictures.
 * These pictures are drawn by Weizhe and co-designed by Pengfei.
