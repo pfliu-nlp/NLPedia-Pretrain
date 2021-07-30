@@ -1,3 +1,11 @@
+[**Typology**](#introduction) | 
+[**Prompt Paper**](https://github.com/neulab/ExplainaBoard#web-based-toolkit-quick-learning) |
+[**Pretrained LM Family**](#api-based-toolkit-quick-installation) |
+[**Survey**](#download-system-outputs) |
+[**Website**](https://arxiv.org/pdf/2104.06387.pdf) |
+[**Copyright**](https://www.youtube.com/watch?v=3X6NgpbN_GU) |
+[**Bib**](http://explainaboard.nlpedia.ai/explainaboard.bib)
+
 
 <p align="center">
   <img src="./fig/bg.png" width="600" class="center">
