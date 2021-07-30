@@ -1,5 +1,5 @@
 # Pre-train, Prompt, Predict
-
+> Feel free to let us know our missed papers (```issue``` or ```pull request```)
 
 [**Typology**](https://github.com/pfliu-nlp/NLPedia-Pretrain/blob/main/README.md#typology-of-prompting-methods) | 
 [**Prompt Paper**](https://github.com/neulab/ExplainaBoard#web-based-toolkit-quick-learning) |
