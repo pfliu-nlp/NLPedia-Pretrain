@@ -1,10 +1,11 @@
 # Pre-train, Prompt, Predict
+> Feel free to let us know our missed papers (```issue``` or ```pull request```)
 
-[**Typology**](#introduction) | 
+[**Typology**](https://github.com/pfliu-nlp/NLPedia-Pretrain/blob/main/README.md#typology-of-prompting-methods) | 
 [**Prompt Paper**](https://github.com/neulab/ExplainaBoard#web-based-toolkit-quick-learning) |
 [**Pretrained LM Family**](#api-based-toolkit-quick-installation) |
-[**Survey**](#download-system-outputs) |
-[**Website**](https://arxiv.org/pdf/2104.06387.pdf) |
+[**Survey**](https://arxiv.org/pdf/2107.13586.pdf) |
+[**Website**](http://pretrain.nlpedia.ai/) |
 [**Copyright**](https://www.youtube.com/watch?v=3X6NgpbN_GU) |
 [**Bib**](http://explainaboard.nlpedia.ai/explainaboard.bib)
 
@@ -12,6 +13,8 @@
  
   <img src="./fig/bg.png" width="600" class="center">
  
+ 
+
 
  
 ## Typology of Prompting Methods
@@ -62,3 +65,6 @@
     * *Full-data*: [\[1\]]() [\[2\]]()
     
  
+## Copyright
+* If you aim to use picture from our github repo or survey, please state the source of these pictures.
+* 
