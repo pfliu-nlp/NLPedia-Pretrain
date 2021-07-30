@@ -22,6 +22,7 @@
 
 
 
+
 * ### Pre-trained Models ([Detailed Description](http://pretrain.nlpedia.ai/data/pdf/plm.pdf))
   * *Left-to-right Language Model*: [\[2\]]() [\[17\]]()
   * *Masked Language Model*: [\[60\]]() [\[2\]]()
@@ -65,6 +66,7 @@
     * *Zero-shot*: [\[34\]]() [\[43\]]()
     * *Few-shot*: [\[19\]]() [\[27\]]()
     * *Full-data*: [\[21\]]() [\[29\]]()
+
 
 ## Copyright and Acknowledgement
 * If you aim to use the picture from our github repo or survey, please state the source of these pictures.
