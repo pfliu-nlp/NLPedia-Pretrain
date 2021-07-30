@@ -1,7 +1,5 @@
 # Pre-train, Prompt, Predict
-> Feel free to let us know the missing papers (```issue``` or ```pull request```)
-> 
-> We highly recommend using the [interactive paperlist]((http://explainaboard.nlpedia.ai/leaderboard/prompting/)) for prompt-based learning.
+
 
 [**Typology**](https://github.com/pfliu-nlp/NLPedia-Pretrain/blob/main/README.md#typology-of-prompting-methods) | 
 [**Prompt Paper**](https://github.com/pfliu-nlp/NLPedia-Pretrain/tree/main/prompt_paper) |
@@ -10,7 +8,9 @@
 [**Survey and Website**](http://pretrain.nlpedia.ai/) |
 [**Copyright**](https://github.com/pfliu-nlp/NLPedia-Pretrain/blob/main/README.md#copyright-and-acknowledgement)
 
+> Feel free to let us know the missing papers (```issue``` or ```pull request```)
 
+> We highly recommend using the [interactive paperlist]((http://explainaboard.nlpedia.ai/leaderboard/prompting/)) for prompt-based learning.
  
   <img src="./fig/bg.png" width="600" class="center">
  
