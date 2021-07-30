@@ -148,32 +148,39 @@ Fixed-prompt LM Tuning
 Designing Templates for Eliciting Commonsense Knowledge from Pretrained Sequence-to-Sequence Models8 September, 2020
 Fixed-prompt LM Tuning
 
-Language Models are Few-Shot Learners28 May, 2020
-Tuning-free Prompting
+#### \[17\] [Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)      ```2020-05-28``` 
+*Tom B. Brown,Benjamin Mann,Nick Ryder,Melanie Subbiah,Jared Kaplan,Prafulla Dhariwal,Arvind Neelakantan,Pranav Shyam,Girish Sastry,Amanda Askell,Sandhini Agarwal,Ariel Herbert-Voss,Gretchen Krueger,Tom Henighan,Rewon Child,Aditya Ramesh,Daniel M. Ziegler,Jeffrey Wu,Clemens Winter,Christopher Hesse,Mark Chen,Eric Sigler,Mateusz Litwin,Scott Gray,Benjamin Chess,Jack Clark,Christopher Berner,Sam McCandlish,Alec Radford,Ilya Sutskever,Dario Amodei*
 
-Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks22 May, 2020
-LM+Prompt Tuning
 
-UNIFIEDQA: Crossing Format Boundaries with a Single QA System2 May, 2020
-Fixed-prompt LM Tuning
+#### \[16\] [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://proceedings.neurips.cc/paper/2020/file/6b493230205f780e1bc26945df7481e5-Paper.pdf)      ```2020-05-22``` 
+*Patrick Lewis,Ethan Perez,Aleksandra Piktus,Fabio Petroni,Vladimir Karpukhin,Naman Goyal,Heinrich Küttler,Mike Lewis,Wen-tau Yih,Tim Rocktäschel, Sebastian Riedel,Douwe Kiela*
 
-How Context Affects Language Models' Factual Predictions10 March, 2020
-Tuning-free Prompting
 
-Exploiting Cloze Questions for Few Shot Text Classification and Natural Language Inference21 January, 2020
-Fixed-prompt LM Tuning
+#### \[15\] [UNIFIEDQA: Crossing Format Boundaries with a Single QA System](https://aclanthology.org/2020.findings-emnlp.171.pdf)      ```2020-05-02``` 
+*Daniel Khashabi,Sewon Min,Tushar Khot,Ashish Sabharwal,Oyvind Tafjord,Peter Clark,Hannaneh Hajishirzi*
 
-Zero-shot Text Classification With Generative Language Models10 December, 2019
-Fixed-prompt LM Tuning
 
-How Can We Know What Language Models Know?28 November, 2019
-Tuning-free Prompting
+#### \[14\] [How Context Affects Language Models' Factual Predictions](https://arxiv.org/pdf/2005.04611.pdf)      ```2020-03-10``` 
+*Fabio Petroni,Patrick Lewis,Aleksandra Piktus,Tim Rockt¨aschel,Yuxiang Wu,Alexander H. Miller,Sebastian Riedel*
 
-Negated and Misprimed Probes for Pretrained Language Models: Birds Can Talk, But Cannot Fly8 November, 2019
-Tuning-free Prompting
 
-Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer23 October, 2019
-Fixed-prompt LM Tuning
+#### \[13\] [Exploiting Cloze Questions for Few Shot Text Classification and Natural Language Inference](https://aclanthology.org/2021.eacl-main.20.pdf)      ```2019-01-21``` 
+*Timo Schick,Hinrich Schutze*
+
+
+#### \[12\] [Zero-shot Text Classification With Generative Language Models](https://arxiv.org/pdf/1912.10165.pdf)      ```2019-12-10``` 
+*Raul Puri,Bryan Catanzaro*
+
+
+#### \[11\] [How Can We Know What Language Models Know?](https://aclanthology.org/2020.tacl-1.28.pdf)      ```2019-11-28``` 
+*Zhengbao Jiang,Frank F. Xu,Jun Araki,Graham Neubig*
+
+#### \[10\] [Negated and Misprimed Probes for Pretrained Language Models: Birds Can Talk, But Cannot Fly](https://aclanthology.org/2020.acl-main.698.pdf)      ```2019-11-08``` 
+*Nora Kassner,Hinrich Sch-utze*
+
+
+#### \[9\] [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/pdf/1910.10683.pdf)      ```2019-10-23``` 
+*Colin Raffel,Noam Shazeer,Adam Roberts,Katherine Lee,Sharan Narang,Michael Matena,Yanqi Zhou,Wei Li,Peter J. Liu*
 
 
 #### \[8\] [CTRL: A Conditional Transformer Language Model for Controllable Generation](https://arxiv.org/pdf/1909.05858.pdf)      ```2019-09-11``` 
