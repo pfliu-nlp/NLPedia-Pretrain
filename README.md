@@ -17,5 +17,15 @@
         - Discrete
         - Continuous
 * Answer Engineering
+  * Shape
+    * Token
+    * Span
+    * Sentence
+  * Human Effort
+    * Hand-crated
+    * Automated
+        - Discrete
+        - Continuous   
+    
 * Multi-Prompt Learning
 * Prompt-based Traning Strategies
