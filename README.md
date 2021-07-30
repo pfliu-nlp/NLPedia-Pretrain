@@ -14,7 +14,7 @@
  
 
  
-## Pre-train, Prompt, Predict
+## Typology of Prompting Methods
 
 
 * ### Pre-trained Models ([Detailed Description](http://pretrain.nlpedia.ai/data/pdf/plm.pdf))
