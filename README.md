@@ -21,6 +21,7 @@
 ## Typology of Prompting Methods
 
 
+
 * ### Pre-trained Models ([Detailed Description](http://pretrain.nlpedia.ai/data/pdf/plm.pdf))
   * *Left-to-right Language Model*: [\[2\]]() [\[17\]]()
   * *Masked Language Model*: [\[60\]]() [\[2\]]()
@@ -41,10 +42,10 @@
     * *Span*: [\[19\]]() [\[22\]]()
     * *Sentence*: [\[17\]]() [\[29\]]()
   * Human Effort
-    * *Hand-crated*: [\[1\]]() [\[2\]]()
+    * *Hand-crated*: [\[2\]]() [\[53\]]()
     * *Automated*
-        - *Discrete*: [\[1\]]() [\[2\]]()
-        - *Continuous*: [\[1\]]() [\[2\]]()
+        - *Discrete*: [\[24\]]() [\[13\]]()
+        - *Continuous*: [\[28\]]() 
     
 * ### Multi-Prompt Learning ([Detailed Description](http://pretrain.nlpedia.ai/data/pdf/multi-prompt.pdf))
   * *Prompt Ensemble*: [\[1\]]() [\[2\]]()
