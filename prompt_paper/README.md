@@ -97,56 +97,77 @@ Fixed-prompt LM Tuning
 BERTese: Learning to Speak to BERT9 March, 2021
 Tuning-free Prompting
 
-Self-Diagnosis and Self-Debiasing: A Proposal for Reducing Corpus-Based Bias in NLP27 February, 2021
+27 February, 2021
 Tuning-free Prompting
 
-PADA: A Prompt-based Autoregressive Approach for Adaptation to Unseen Domains24 February, 2021
-LM+Prompt Tuning
+#### \[34\] [Self-Diagnosis and Self-Debiasing: A Proposal for Reducing Corpus-Based Bias in NLP](https://arxiv.org/pdf/2103.00453.pdf)      ```2021-02-27``` 
+*Timo Schick,Sahana Udupa,Hinrich Schütze*
 
-Calibrate Before Use: Improving Few-Shot Performance of Language Models19 February, 2021
-Tuning-free Prompting
 
-Prompt Programming for Large Language Models: Beyond the Few-Shot Paradigm15 February, 2021
-Tuning-free Prompting
+#### \[33\] [PADA: A Prompt-based Autoregressive Approach for Adaptation to Unseen Domains](https://arxiv.org/pdf/2102.12206.pdf)      ```2021-02-24``` 
+*Eyal Ben-David,Nadav Oved,Roi Reichart*
 
-What Makes Good In-Context Examples for GPT-3?17 January, 2021
-Tuning-free Prompting
 
-Prefix-Tuning: Optimizing Continuous Prompts for Generation1 January, 2021
-Fixed-LM Prompt Tuning
+#### \[32\] [Calibrate Before Use: Improving Few-Shot Performance of Language Models](https://arxiv.org/pdf/2102.09690.pdf)      ```2021-02-19``` 
+*Tony Z. Zhao,Eric Wallace,Shi Feng,Dan Klein,Sameer Singh*
 
-WARP: Word-level Adversarial ReProgramming1 January, 2021
-Fixed-LM Prompt Tuning
 
-Making Pre-trained Language Models Better Few-shot Learners31 December, 2020
-Fixed-prompt LM Tuning
+#### \[31\] [Prompt Programming for Large Language Models: Beyond the Few-Shot Paradigm](https://arxiv.org/pdf/2102.07350.pdf)      ```2021-02-15``` 
+*Laria Reynolds,Kyle McDonell*
 
-Few-Shot Text Generation with Pattern-Exploiting Training22 December, 2020
-Fixed-prompt LM Tuning
 
-CTRLsum: Towards Generic Controllable Text Summarization8 December, 2020
-Fixed-prompt LM Tuning
+#### \[30\] [What Makes Good In-Context Examples for GPT-3?](https://arxiv.org/pdf/2101.06804.pdf)      ```2021-01-17``` 
+*Jiachang Liu,Dinghan Shen,Yizhe Zhang,Bill Dolan,Lawrence Carin,Weizhu Chen*
 
-AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts29 October, 2020
-Tuning-free Prompting
 
-Automatically Identifying Words That Can Serve as Labels for Few-Shot Text Classification26 October, 2020
-Fixed-prompt LM Tuning
+#### \[29\] [Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://arxiv.org/pdf/2101.00190.pdf)      ```2021-01-01``` 
+*Xiang Lisa Li,Percy Liang*
 
-X-FACTR: Multilingual Factual Knowledge Retrieval from Pretrained Language Models13 October, 2020
-Tuning-free Prompting
 
-A Mathematical Exploration of Why Language Models Help Solve Downstream Tasks7 October, 2020
-Fixed-LM Prompt Tuning
+#### \[28\] [WARP: Word-level Adversarial ReProgramming](https://arxiv.org/pdf/2101.00121.pdf)      ```2021-01-01``` 
+*Karen Hambardzumyan,Hrant Khachatrian,Jonathan May*
 
-RealToxicityPrompts: Evaluating Neural Toxic Degeneration in Language Models24 September, 2020
-Tuning-free Prompting
 
-It's Not Just Size That Matters: Small Language Models Are Also Few-Shot Learners15 September, 2020
-Fixed-prompt LM Tuning
+#### \[27\] [Making Pre-trained Language Models Better Few-shot Learners](https://arxiv.org/pdf/2012.15723.pdf)      ```2020-12-31``` 
+*Tianyu Gao,Adam Fisch,Danqi Chen*
 
-Designing Templates for Eliciting Commonsense Knowledge from Pretrained Sequence-to-Sequence Models8 September, 2020
-Fixed-prompt LM Tuning
+
+#### \[26\] [Few-Shot Text Generation with Pattern-Exploiting Training](https://arxiv.org/pdf/2012.11926.pdf)      ```2020-12-22``` 
+*Timo Schick,Hinrich Schütze*
+
+
+#### \[25\] [CTRLsum: Towards Generic Controllable Text Summarization](https://arxiv.org/pdf/2012.04281.pdf)      ```2020-12-08``` 
+*Junxian He,Wojciech Kryscinski,Bryan McCann,Nazneen Rajani,Caiming Xiong*
+
+
+#### \[24\] [AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts](https://aclanthology.org/2020.emnlp-main.346.pdf)      ```2020-10-29``` 
+*Taylor Shin,Yasaman Razeghi,Robert L. Logan IV,Eric Wallace,Sameer Singh*
+
+
+#### \[23\] [Automatically Identifying Words That Can Serve as Labels for Few-Shot Text Classification](https://aclanthology.org/2020.coling-main.488.pdf)      ```2020-10-26``` 
+*Timo Schick,Helmut Schmid,Hinrich Schütze*
+
+
+#### \[22\] [X-FACTR: Multilingual Factual Knowledge Retrieval from Pretrained Language Models](https://aclanthology.org/2020.emnlp-main.479.pdf)      ```2020-10-13``` 
+*Zhengbao Jiang,Antonios Anastasopoulos,Jun Araki,Haibo Ding,Graham Neubig*
+
+
+#### \[21\] [A Mathematical Exploration of Why Language Models Help Solve Downstream Tasks](https://arxiv.org/pdf/2010.03648.pdf)      ```2020-10-07``` 
+*Nikunj Saunshi,Sadhika Malladi,Sanjeev Arora*
+
+
+#### \[20\] [RealToxicityPrompts: Evaluating Neural Toxic Degeneration in Language Models](https://aclanthology.org/2020.findings-emnlp.301.pdf)      ```2020-09-24``` 
+*Samuel Gehman,Suchin Gururangan,Maarten Sap,Yejin Choi,Noah A. Smith*
+
+
+#### \[19\] [It's Not Just Size That Matters: Small Language Models Are Also Few-Shot Learners](https://aclanthology.org/2021.naacl-main.185.pdf)      ```2020-09-15``` 
+*Timo Schick,Hinrich Schütze*
+
+
+#### \[18\] [Designing Templates for Eliciting Commonsense Knowledge from Pretrained Sequence-to-Sequence Models](https://aclanthology.org/2020.coling-main.307.pdf)      ```2020-09-08``` 
+*Jheng-Hong Yang,Sheng-Chieh Lin,Rodrigo Nogueira,Ming-Feng Tsai,Chuan-Ju Wang,Jimmy Lin*
+
+
 
 #### \[17\] [Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)      ```2020-05-28``` 
 *Tom B. Brown,Benjamin Mann,Nick Ryder,Melanie Subbiah,Jared Kaplan,Prafulla Dhariwal,Arvind Neelakantan,Pranav Shyam,Girish Sastry,Amanda Askell,Sandhini Agarwal,Ariel Herbert-Voss,Gretchen Krueger,Tom Henighan,Rewon Child,Aditya Ramesh,Daniel M. Ziegler,Jeffrey Wu,Clemens Winter,Christopher Hesse,Mark Chen,Eric Sigler,Mateusz Litwin,Scott Gray,Benjamin Chess,Jack Clark,Christopher Berner,Sam McCandlish,Alec Radford,Ilya Sutskever,Dario Amodei*
