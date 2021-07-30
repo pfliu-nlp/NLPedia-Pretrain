@@ -1,5 +1,5 @@
 
-  <img src="./fig/talk.png" width="800" class="center">
+  <img src="./fig/talk.png" width="600" class="center">
 
 
  
