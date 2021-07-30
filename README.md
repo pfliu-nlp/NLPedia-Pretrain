@@ -6,7 +6,7 @@
 # Typology of Prompt-based Learning
 
 * ### Pre-trained Models
-  * [Left-to-right Language Model:]() [\[1\]](); [\[2\]]()
+  * #### Left-to-right Language Model: [\[1\]](); [\[2\]]()
   * Masked Language Model
   * Prefix Language Model
   * Encoder-Decoder
