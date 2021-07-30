@@ -1,5 +1,5 @@
 # Prompt-based Learning Research Papers
-> Feel free to let us know our missed papers (```issue``` or ```pull request```)
+> Feel free to let us know the missing papers (```issue``` or ```pull request```)
 <img src="../fig/talk.png" width="600" class="center">
 
 
