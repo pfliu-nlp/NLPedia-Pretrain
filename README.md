@@ -2,6 +2,7 @@
   <img src="./fig/bg.png" width="800" class="center">
 
 
+# Typology of Prompt-based Learning
 * Pre-trained Models
   * Left-to-right Language Model
   * Masked Language Model
