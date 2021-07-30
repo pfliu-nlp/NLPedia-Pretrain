@@ -9,9 +9,9 @@
 [**Bib**](http://explainaboard.nlpedia.ai/explainaboard.bib)
 
 
-<p align="center">
+ 
   <img src="./fig/bg.png" width="600" class="center">
-</p>
+ 
 
  
 ## Pre-train, Prompt, Predict
