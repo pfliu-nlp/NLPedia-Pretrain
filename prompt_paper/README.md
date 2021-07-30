@@ -1,5 +1,8 @@
 # Prompt-based Learning Research Papers
 > Feel free to let us know the missing papers (```issue``` or ```pull request```)
+
+> We highly recommend using the [interactive paperlist]((http://explainaboard.nlpedia.ai/leaderboard/prompting/)) for prompt-based learning.
+ 
 <img src="../fig/talk.png" width="600" class="center">
 
 
