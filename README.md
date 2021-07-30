@@ -48,24 +48,24 @@
         - *Continuous*: [\[28\]]() 
     
 * ### Multi-Prompt Learning ([Detailed Description](http://pretrain.nlpedia.ai/data/pdf/multi-prompt.pdf))
-  * *Prompt Ensemble*: [\[1\]]() [\[2\]]()
-  * *Prompt Augmentation*: [\[1\]]() [\[2\]]()
-  * *Prompt Composition*: [\[1\]]() [\[2\]]()
-  * *Prompt Decomposition*: [\[1\]]() [\[2\]]()
+  * *Prompt Ensemble*: [\[11\]]() [\[57\]]()
+  * *Prompt Augmentation*: [\[48\]]() [\[47\]]()
+  * *Prompt Composition*: [\[52\]]() 
+  * *Prompt Decomposition*: [\[53\]]() 
   * *Prompt Sharing*: [\[1\]]() [\[2\]]()
     
 * ### Prompt-based Training Strategies ([Detailed Description](http://pretrain.nlpedia.ai/data/pdf/learning.pdf))
   * Parameter Updating
     * *Promptless Fine-tuning*: [\[1\]]() [\[2\]]()
-    * *Tuning-free Prompting*: [\[1\]]() [\[2\]]()
-    * *Fixed-LM Prompt Tuning*: [\[1\]]() [\[2\]]()
-    * *Fixed-prompt LM Tuning*: [\[1\]]() [\[2\]]()
-    * *Prompt+LM Tuning*: [\[1\]]() [\[2\]]()
+    * *Tuning-free Prompting*: [\[17\]]() [\[7\]]()
+    * *Fixed-LM Prompt Tuning*: [\[29\]]() [\[28\]]()
+    * *Fixed-prompt LM Tuning*: [\[26\]]() [\[13\]]()
+    * *Prompt+LM Tuning*: [\[33\]]() [\[37\]]()
   * Training Sample Size
-    * *Zero-shot*: [\[1\]]() [\[2\]]()
-    * *Few-shot*: [\[1\]]() [\[2\]]()
-    * *Full-data*: [\[1\]]() [\[2\]]()
- 
+    * *Zero-shot*: [\[34\]]() [\[43\]]()
+    * *Few-shot*: [\[19\]]() [\[27\]]()
+    * *Full-data*: [\[21\]]() [\[29\]]()
+
 ## Copyright and Acknowledgement
 * If you aim to use the picture from our github repo or survey, please state the source of these pictures.
 * These pictures are drawn by Weizhe and co-designed by Pengfei.
