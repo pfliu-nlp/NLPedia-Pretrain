@@ -1,6 +1,6 @@
 
 
-  <img src="./fig/bg.png" width="800" class="center">
+  <img src="./fig/bg.png" width="600" class="center">
 
 
  
