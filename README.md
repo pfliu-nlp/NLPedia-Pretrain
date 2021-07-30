@@ -6,7 +6,7 @@
 [**Pretrained LM Family**](#api-based-toolkit-quick-installation) |
 [**Survey**](https://arxiv.org/pdf/2107.13586.pdf) |
 [**Website**](http://pretrain.nlpedia.ai/) |
-[**Copyright**](https://www.youtube.com/watch?v=3X6NgpbN_GU)
+[**Copyright**](https://github.com/pfliu-nlp/NLPedia-Pretrain/blob/main/README.md#copyright-and-acknowledgement)
 
 
  
