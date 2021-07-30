@@ -205,7 +205,7 @@ Tuning-free Prompting
 Tuning-free Prompting
 
 
-\[1\]. 2020-02-12
-* [A Simple Method for Commonsense Reasoning]() 
-* Tuning-free Prompting
+\[1\]. [A Simple Method for Commonsense Reasoning]()       2020-02-12
+XXX
+
 
