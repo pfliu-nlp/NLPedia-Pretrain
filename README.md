@@ -28,4 +28,20 @@
         - Continuous   
     
 * Multi-Prompt Learning
-* Prompt-based Traning Strategies
+  * Prompt Ensemble
+  * Prompt Augmentation
+  * Prompt Composition
+  * Prompt Decomposition
+  * Prompt Sharing
+    
+* Prompt-based Training Strategies
+  * Parameter Updating
+    * Promptless Fine-tuning
+    * Tuning-free Prompting
+    * Fixed-LM Prompt Tuning
+    * Fixed-prompt LM Tuning
+    * Prompt+LM Tuning
+  * Training Sample Size
+    * Zero-shot
+    * Few-shot
+    * Full-data
