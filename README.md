@@ -5,8 +5,7 @@
 [**Prompt Paper**](https://github.com/neulab/ExplainaBoard#web-based-toolkit-quick-learning) |
 [**Interactive Paperlist**](http://explainaboard.nlpedia.ai/leaderboard/prompting/) |
 [**Pretrained LM Family**](#api-based-toolkit-quick-installation) |
-[**Survey**](https://arxiv.org/pdf/2107.13586.pdf) |
-[**Website**](http://pretrain.nlpedia.ai/) |
+[**Survey and Website**](http://pretrain.nlpedia.ai/) |
 [**Copyright**](https://github.com/pfliu-nlp/NLPedia-Pretrain/blob/main/README.md#copyright-and-acknowledgement)
 
 
