@@ -6,8 +6,7 @@
 [**Pretrained LM Family**](#api-based-toolkit-quick-installation) |
 [**Survey**](https://arxiv.org/pdf/2107.13586.pdf) |
 [**Website**](http://pretrain.nlpedia.ai/) |
-[**Copyright**](https://www.youtube.com/watch?v=3X6NgpbN_GU) |
-[**Bib**](http://explainaboard.nlpedia.ai/explainaboard.bib)
+[**Copyright**](https://www.youtube.com/watch?v=3X6NgpbN_GU)
 
 
  
@@ -65,6 +64,6 @@
     * *Full-data*: [\[1\]]() [\[2\]]()
     
  
-## Copyright
+## Copyright and Acknowledgement
 * If you aim to use picture from our github repo or survey, please state the source of these pictures.
-* 
+* These pictures are drawn by Weizhe and co-designed by Pengfei.
