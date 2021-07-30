@@ -9,14 +9,14 @@
 
 * ### Pre-trained Models
   * #### Left-to-right Language Model: [\[1\]](); [\[2\]]()
-  * Masked Language Model
-  * Prefix Language Model
-  * Encoder-Decoder
+  * #### Masked Language Model
+  * #### Prefix Language Model
+  * #### Encoder-Decoder
 * ### Prompt Engineering
-  * Shape
+  * #### Shape
     * Cloze prompt
     * Prefix prompt
-  * Human Effort
+  * #### Human Effort
     * Hand-crated
     * Automated
         - Discrete
