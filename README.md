@@ -8,10 +8,10 @@
 # Typology of Prompt-based Learning ([Know More?](https://arxiv.org/pdf/2107.13586.pdf))
 
 * ### Pre-trained Models ([Detailed Description](http://pretrain.nlpedia.ai/data/pdf/plm.pdf))
-  * Left-to-right Language Model: [\[1\]]() [\[2\]]()
-  * Masked Language Model: [\[1\]]() [\[2\]]()
-  * Prefix Language Model: [\[1\]]() [\[2\]]()
-  * Encoder-Decoder: [\[1\]]() [\[2\]]()
+  * *Left-to-right Language Model*: [\[1\]]() [\[2\]]()
+  * *Masked Language Model*: [\[1\]]() [\[2\]]()
+  * *Prefix Language Model*: [\[1\]]() [\[2\]]()
+  * *Encoder-Decoder*: [\[1\]]() [\[2\]]()
 * ### Prompt Engineering ([Detailed Description](http://pretrain.nlpedia.ai/data/pdf/template.pdf))
   * Shape
     * Cloze prompt: [\[1\]]() [\[2\]]()
