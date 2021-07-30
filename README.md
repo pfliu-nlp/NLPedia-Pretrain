@@ -14,13 +14,13 @@
   * *Encoder-Decoder*: [\[1\]]() [\[2\]]()
 * ### Prompt Engineering ([Detailed Description](http://pretrain.nlpedia.ai/data/pdf/template.pdf))
   * Shape
-    * Cloze prompt: [\[1\]]() [\[2\]]()
-    * Prefix prompt: [\[1\]]() [\[2\]]()
+    * *Cloze prompt*: [\[1\]]() [\[2\]]()
+    * *Prefix prompt*: [\[1\]]() [\[2\]]()
   * Human Effort
-    * Hand-crated
+    * *Hand-crated*
     * Automated
-        - Discrete: [\[1\]]() [\[2\]]()
-        - Continuous: [\[1\]]() [\[2\]]()
+        - *Discrete*: [\[1\]]() [\[2\]]()
+        - *Continuous*: [\[1\]]() [\[2\]]()
 * ### Answer Engineering ([Detailed Description](http://pretrain.nlpedia.ai/data/pdf/answer.pdf))
   * Shape
     * Token: [\[1\]]() [\[2\]]()
