@@ -190,11 +190,13 @@ Tuning-free Prompting
 What BERT is Not: Lessons from a New Suite of Psycholinguistic Diagnostics for Language Models31 July, 2019
 Tuning-free Prompting
 
-Rare Words: A Major Problem for Contextualized Embeddings and How to Fix it by Attentive Mimicking14 April, 2019
-Tuning-free Prompting
+#### \[3\] [Rare Words: A Major Problem for Contextualized Embeddings and How to Fix it by Attentive Mimicking](https://arxiv.org/pdf/1904.06707.pdf)      ```2019-04-14``` 
+*Timo Schick,Hinrich Schütze*
 
-Language Models are Unsupervised Multitask Learners14 February, 2019
-Tuning-free Prompting
+
+#### \[2\] [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf)      ```2019-02-14``` 
+
+*Alec Radford,Jeffrey Wu,Rewon Child,David Luan,Dario Amodei,Ilya Sutskever* 
 
 
 
