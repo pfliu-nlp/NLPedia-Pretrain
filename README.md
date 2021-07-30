@@ -1,7 +1,7 @@
 # Pre-train, Prompt, Predict
 > Feel free to let us know the missing papers (```issue``` or ```pull request```)
 > 
-> We highly recommend using the interactive paperlist for prompt-based learning.
+> We highly recommend using the [interactive paperlist]((http://explainaboard.nlpedia.ai/leaderboard/prompting/)) for prompt-based learning.
 
 [**Typology**](https://github.com/pfliu-nlp/NLPedia-Pretrain/blob/main/README.md#typology-of-prompting-methods) | 
 [**Prompt Paper**](https://github.com/pfliu-nlp/NLPedia-Pretrain/tree/main/prompt_paper) |
