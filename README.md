@@ -1,3 +1,5 @@
+# Pre-train, Prompt, Predict
+
 [**Typology**](#introduction) | 
 [**Prompt Paper**](https://github.com/neulab/ExplainaBoard#web-based-toolkit-quick-learning) |
 [**Pretrained LM Family**](#api-based-toolkit-quick-installation) |
@@ -13,7 +15,7 @@
 
  
 
-# Typology of Prompt-based Learning ([Know More?](https://arxiv.org/pdf/2107.13586.pdf))
+
 
 * ### Pre-trained Models ([Detailed Description](http://pretrain.nlpedia.ai/data/pdf/plm.pdf))
   * *Left-to-right Language Model*: [\[1\]]() [\[2\]]()
