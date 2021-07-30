@@ -4,6 +4,7 @@
 
 * Pre-trained Models
   * Left-to-right Language Model
+    * Left
 * Prompt Engineering
 * Answer Engineering
 * Multi-Prompt Learning
