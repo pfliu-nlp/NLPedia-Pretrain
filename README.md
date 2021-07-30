@@ -5,7 +5,7 @@
  
 # Typology of Prompt-based Learning
 
-* #### Pre-trained Models
+* ### Pre-trained Models
   * [Left-to-right Language Model]()
   * Masked Language Model
   * Prefix Language Model
