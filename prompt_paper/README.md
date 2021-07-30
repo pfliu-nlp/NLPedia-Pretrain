@@ -195,5 +195,5 @@ Tuning-free Prompting
 Language Models are Unsupervised Multitask Learners14 February, 2019
 Tuning-free Prompting
 
-1. A Simple Method for Commonsense Reasoning7 June, 2018
+\[1\]. [A Simple Method for Commonsense Reasoning]() 7 June, 2018
 Tuning-free Prompting
