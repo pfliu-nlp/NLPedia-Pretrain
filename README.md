@@ -12,7 +12,7 @@
   * Masked Language Model: [\[1\]](); [\[2\]]()
   * Prefix Language Model: [\[1\]](); [\[2\]]()
   * Encoder-Decoder: [\[1\]](); [\[2\]]()
-* ### Prompt Engineering
+* ### Prompt Engineering ([Detailed Description]())
   * Shape
     * Cloze prompt: [\[1\]](); [\[2\]]()
     * Prefix prompt: [\[1\]](); [\[2\]]()
@@ -21,7 +21,7 @@
     * Automated
         - Discrete: [\[1\]](); [\[2\]]()
         - Continuous: [\[1\]](); [\[2\]]()
-* ### Answer Engineering
+* ### Answer Engineering ([Detailed Description]())
   * Shape
     * Token: [\[1\]](); [\[2\]]()
     * Span: [\[1\]](); [\[2\]]()
@@ -32,14 +32,14 @@
         - Discrete: [\[1\]](); [\[2\]]()
         - Continuous: [\[1\]](); [\[2\]]()
     
-* ### Multi-Prompt Learning
+* ### Multi-Prompt Learning ([Detailed Description]())
   * Prompt Ensemble: [\[1\]](); [\[2\]]()
   * Prompt Augmentation: [\[1\]](); [\[2\]]()
   * Prompt Composition: [\[1\]](); [\[2\]]()
   * Prompt Decomposition: [\[1\]](); [\[2\]]()
   * Prompt Sharing: [\[1\]](); [\[2\]]()
     
-* ### Prompt-based Training Strategies
+* ### Prompt-based Training Strategies ([Detailed Description]())
   * Parameter Updating
     * Promptless Fine-tuning: [\[1\]](); [\[2\]]()
     * Tuning-free Prompting: [\[1\]](); [\[2\]]()
