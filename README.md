@@ -31,41 +31,41 @@
   * *Encoder-Decoder*
 * ### Prompt Engineering ([Detailed Description](http://pretrain.nlpedia.ai/data/pdf/template.pdf))
   * *Shape*
-    * *Cloze prompt*: [\[7\]](https://aclanthology.org/D19-1250.pdf) [\[53\]]()
-    * *Prefix prompt*: [\[17\]]() [\[26\]]()
+    * *Cloze prompt*: [\[7\]](https://aclanthology.org/D19-1250.pdf) [\[53\]](https://arxiv.org/pdf/2106.01760.pdf)
+    * *Prefix prompt*: [\[17\]](https://arxiv.org/pdf/2005.14165.pdf) [\[26\]](https://arxiv.org/pdf/2012.11926.pdf)
   * *Human Effort*
     * *Hand-crated*
     * *Automated*
-        - *Discrete*: [\[24\]]() [\[27\]]()
-        - *Continuous*: [\[29\]]() [\[59\]]()
+        - *Discrete*: [\[24\]](https://aclanthology.org/2020.emnlp-main.346.pdf) [\[27\]](https://arxiv.org/pdf/2012.15723.pdf)
+        - *Continuous*: [\[29\]](https://arxiv.org/pdf/2101.00190.pdf) [\[59\]](https://arxiv.org/pdf/2106.13884.pdf)
 * ### Answer Engineering ([Detailed Description](http://pretrain.nlpedia.ai/data/pdf/answer.pdf))
   * *Shape*
-    * *Token*: [\[53\]]() [\[7\]]()
-    * *Span*: [\[19\]]() [\[22\]]()
-    * *Sentence*: [\[17\]]() [\[29\]]()
+    * *Token*: [\[53\]](https://arxiv.org/pdf/2106.01760.pdf) [\[7\]](https://aclanthology.org/D19-1250.pdf)
+    * *Span*: [\[19\]](https://aclanthology.org/2021.naacl-main.185.pdf) [\[22\]](https://aclanthology.org/2020.emnlp-main.479.pdf)
+    * *Sentence*: [\[17\]](https://arxiv.org/pdf/2005.14165.pdf) [\[29\]](https://arxiv.org/pdf/2101.00190.pdf)
   * Human Effort
-    * *Hand-crated*: [\[2\]]() [\[53\]]()
+    * *Hand-crated*: [\[2\]](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf) [\[53\]](https://arxiv.org/pdf/2106.01760.pdf)
     * *Automated*
-        - *Discrete*: [\[24\]]() [\[13\]]()
-        - *Continuous*: [\[28\]]() 
+        - *Discrete*: [\[24\]](https://aclanthology.org/2020.emnlp-main.346.pdf) [\[13\]](https://aclanthology.org/2021.eacl-main.20.pdf)
+        - *Continuous*: [\[28\]](https://arxiv.org/pdf/2101.00121.pdf) 
     
 * ### Multi-Prompt Learning ([Detailed Description](http://pretrain.nlpedia.ai/data/pdf/multi-prompt.pdf))
-  * *Prompt Ensemble*: [\[11\]]() [\[57\]]()
-  * *Prompt Augmentation*: [\[48\]]() [\[47\]]()
-  * *Prompt Composition*: [\[52\]]() 
-  * *Prompt Decomposition*: [\[53\]]() 
+  * *Prompt Ensemble*: [\[11\]](https://aclanthology.org/2020.tacl-1.28.pdf) [\[57\]](https://arxiv.org/pdf/2106.11520.pdf)
+  * *Prompt Augmentation*: [\[48\]](https://arxiv.org/pdf/2104.08786.pdf) [\[47\]](https://arxiv.org/pdf/2104.08773.pdf)
+  * *Prompt Composition*: [\[52\]](https://arxiv.org/pdf/2105.11259.pdf) 
+  * *Prompt Decomposition*: [\[53\]](https://arxiv.org/pdf/2106.01760.pdf) 
     
 * ### Prompt-based Training Strategies ([Detailed Description](http://pretrain.nlpedia.ai/data/pdf/learning.pdf))
   * Parameter Updating
     * *Promptless Fine-tuning*
-    * *Tuning-free Prompting*: [\[17\]]() [\[7\]]()
-    * *Fixed-LM Prompt Tuning*: [\[29\]]() [\[28\]]()
-    * *Fixed-prompt LM Tuning*: [\[26\]]() [\[13\]]()
-    * *Prompt+LM Tuning*: [\[33\]]() [\[37\]]()
+    * *Tuning-free Prompting*: [\[17\]](https://arxiv.org/pdf/2005.14165.pdf) [\[7\]](https://aclanthology.org/D19-1250.pdf)
+    * *Fixed-LM Prompt Tuning*: [\[29\]](https://arxiv.org/pdf/2101.00190.pdf) [\[28\]](https://arxiv.org/pdf/2101.00121.pdf)
+    * *Fixed-prompt LM Tuning*: [\[26\]](https://arxiv.org/pdf/2012.11926.pdf) [\[13\]](https://aclanthology.org/2021.eacl-main.20.pdf)
+    * *Prompt+LM Tuning*: [\[33\]](https://arxiv.org/pdf/2102.12206.pdf) [\[37\]](https://arxiv.org/pdf/2103.10385.pdf)
   * Training Sample Size
-    * *Zero-shot*: [\[34\]]() [\[43\]]()
-    * *Few-shot*: [\[19\]]() [\[27\]]()
-    * *Full-data*: [\[21\]]() [\[29\]]()
+    * *Zero-shot*: [\[34\]](https://arxiv.org/pdf/2103.00453.pdf) [\[43\]](https://arxiv.org/pdf/2104.07540.pdf)
+    * *Few-shot*: [\[19\]](https://aclanthology.org/2021.naacl-main.185.pdf) [\[27\]](https://arxiv.org/pdf/2012.15723.pdf)
+    * *Full-data*: [\[21\]](https://arxiv.org/pdf/2010.03648.pdf) [\[29\]](https://arxiv.org/pdf/2101.00190.pdf)
 
 
 
