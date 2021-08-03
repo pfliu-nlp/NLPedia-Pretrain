@@ -31,7 +31,7 @@
   * *Encoder-Decoder*
 * ### Prompt Engineering ([Detailed Description](http://pretrain.nlpedia.ai/data/pdf/template.pdf))
   * *Shape*
-    * *Cloze prompt*: [\[7\]]() [\[53\]]()
+    * *Cloze prompt*: [\[7\]](https://aclanthology.org/D19-1250.pdf) [\[53\]]()
     * *Prefix prompt*: [\[17\]]() [\[26\]]()
   * *Human Effort*
     * *Hand-crated*

@@ -1,6 +1,15 @@
 # Prompt-based Learning Research Papers 
 <img src="../fig/talk.png" width="600" class="center">
 
+#### \[66\] [GPT3Mix: Leveraging Large-scale Language Models for Text Augmentation](https://arxiv.org/pdf/2104.08826.pdf)      ```2021-04-08``` 
+*Kang Min Yoo, Dongju Park, Jaewook Kang, Sang-Woo Lee, Woomyeong Park* 
+
+#### \[65\] [Argumentative Relation Classification as Plausibility Ranking](https://arxiv.org/pdf/1909.09031.pdf)      ```2019-09-09``` 
+*Juri Opitz* 
+
+
+#### \[64\] [Text Generation with Efficient (Soft) Q-Learning](https://arxiv.org/pdf/2106.07704.pdf)      ```2021-06-07``` 
+*Han Guo, Bowen Tan, Zhengzhong Liu, Eric P. Xing, Zhiting Hu* 
 
 
 #### \[63\] [FLEX: Unifying Evaluation for Few-Shot NLP](https://arxiv.org/pdf/2107.07170.pdf)      ```2021-07-15``` 
