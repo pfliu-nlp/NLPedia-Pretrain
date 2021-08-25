@@ -4,8 +4,13 @@
 
 **************************** **Updates** ****************************
 
-* 8/20: We updated our [Prompt Papers](#paper-list).
+* 8/25: Add a new papers. ([\[67\]](https://arxiv.org/pdf/2102.02779.pdf))
+* 8/15: Add three new papers. ([\[64\]](https://arxiv.org/pdf/2106.07704.pdf), [\[65\]](https://arxiv.org/pdf/1909.09031.pdf), [\[66\]](https://arxiv.org/pdf/2104.08826.pdf))
+* 8/02: Add Several missing references. 
+* 8/01: Fix one incorrect reference. (Thank Junyang Lin for pointing it out.)
 * 7/28: We released [our paper](https://arxiv.org/pdf/2107.13586.pdf). Check it out!
+
+We updated our [Prompt Papers](#paper-list).
 
 #
 
