@@ -1,6 +1,14 @@
 # Pre-train, Prompt, Predict
 
 
+
+**************************** **Updates** ****************************
+
+* 8/20: We updated our [Prompt Papers](#paper-list).
+* 7/28: We released [our paper](https://arxiv.org/pdf/2107.13586.pdf). Check it out!
+
+
+
 [**Typology**](https://github.com/pfliu-nlp/NLPedia-Pretrain/blob/main/README.md#typology-of-prompting-methods) | 
 [**Prompt Paper**](https://github.com/pfliu-nlp/NLPedia-Pretrain/tree/main/prompt_paper) |
 [**Interactive Paperlist**](http://explainaboard.nlpedia.ai/leaderboard/prompting/) |
