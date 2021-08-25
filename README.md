@@ -10,8 +10,6 @@
 * 8/01: Fix one incorrect reference. (Thank Junyang Lin for pointing it out.)
 * 7/28: We released [our paper](https://arxiv.org/pdf/2107.13586.pdf). Check it out!
 
-We updated our [Prompt Papers](#paper-list).
-
 #
 
 [**Typology**](https://github.com/pfliu-nlp/NLPedia-Pretrain/blob/main/README.md#typology-of-prompting-methods) | 
