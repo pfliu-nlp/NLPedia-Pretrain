@@ -1,6 +1,10 @@
 # Prompt-based Learning Research Papers 
 <img src="../fig/talk.png" width="600" class="center">
 
+#### \[67\] [Unifying Vision-and-Language Tasks via Text Generation](https://arxiv.org/pdf/2102.02779.pdf)      ```2021-05-23``` 
+*Jaemin Cho, Jie Lei, Hao Tan, Mohit Bansal* 
+
+
 #### \[66\] [GPT3Mix: Leveraging Large-scale Language Models for Text Augmentation](https://arxiv.org/pdf/2104.08826.pdf)      ```2021-04-08``` 
 *Kang Min Yoo, Dongju Park, Jaewook Kang, Sang-Woo Lee, Woomyeong Park* 
 
