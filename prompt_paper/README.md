@@ -1,6 +1,97 @@
 # Prompt-based Learning Research Papers 
 <img src="../fig/talk.png" width="600" class="center">
 
+#### \[97\] [Revisiting Self-Training for Few-Shot Learning of Language Model](https://arxiv.org/pdf/2110.01256.pdf)      ```04 October, 2021```
+*AUTHOR*
+
+#### \[96\] [Towards Zero-Label Language Learning](https://arxiv.org/abs/2109.09193)      ```19 September, 2021```
+*AUTHOR*
+
+#### \[95\] [SentiPrompt: Sentiment Knowledge Enhanced Prompt-Tuning for Aspect-Based Sentiment Analysis](https://arxiv.org/abs/2109.08306)      ```17 September, 2021```
+*AUTHOR*
+
+#### \[94\] [Reframing Instructional Prompts to GPTk's Language](https://arxiv.org/abs/2109.07830)      ```16 September, 2021```
+*AUTHOR*
+
+#### \[93\] [Language Models are Few-shot Multilingual Learners](https://arxiv.org/abs/2109.07684)      ```16 September, 2021```
+*AUTHOR*
+
+#### \[92\] [Can Language Models be Biomedical Knowledge Bases? ](https://arxiv.org/abs/2109.07154)      ```15 September, 2021```
+*AUTHOR*
+
+#### \[91\] [Dialogue State Tracking with a Language Model using Schema-Driven Prompting](https://arxiv.org/abs/2109.07506)      ```15 September, 2021```
+*AUTHOR*
+
+#### \[90\] [Exploring Prompt-based Few-shot Learning for Grounded Dialog Generation](https://arxiv.org/abs/2109.06513)      ```14 September, 2021```
+*AUTHOR*
+
+#### \[89\] [Eliciting Knowledge from Language Models for Event Extraction](https://arxiv.org/abs/2109.05190)      ```11 September, 2021```
+*AUTHOR*
+
+#### \[88\] [An Empirical Study of GPT-3 for Few-Shot Knowledge-Based VQA](https://arxiv.org/abs/2109.05014)      ```10 September, 2021```
+*AUTHOR*
+
+#### \[87\] [CINS: Comprehensive Instruction for Few-shot Learning in Task-oriented Dialog Systems](https://arxiv.org/abs/2109.04645)      ```10 September, 2021```
+*AUTHOR*
+
+#### \[86\] [PPT: Pre-trained Prompt Tuning for Few-shot Learning](https://arxiv.org/abs/2109.04332)      ```9 September, 2021```
+*AUTHOR*
+
+#### \[85\] [Avoiding Inference Heuristics in Few-shot Prompt-based Finetuning](https://arxiv.org/abs/2109.04144)      ```9 September, 2021```
+*AUTHOR*
+
+#### \[84\] [Continuous Entailment Patterns for Lexical Inference in Context](https://arxiv.org/abs/2109.03695)      ```8 September, 2021```
+*AUTHOR*
+
+#### \[83\] [A Recipe For Arbitrary Text Style Transfer with Large Language Models](https://arxiv.org/abs/2109.03910)      ```8 September, 2021```
+*AUTHOR*
+
+#### \[82\] [Open Aspect Target Sentiment Classification with Natural Language Prompts](https://arxiv.org/abs/2109.03685)      ```8 September, 2021```
+*AUTHOR*
+
+#### \[81\] [Discrete and Soft Prompting for Multilingual Models](https://arxiv.org/abs/2109.03630)      ```8 September, 2021```
+*AUTHOR*
+
+#### \[80\] [NSP-BERT: A Prompt-based Zero-Shot Learner Through an Original Pre-training Task--Next Sentence Prediction](https://arxiv.org/abs/2109.03564)      ```8 September, 2021```
+*AUTHOR*
+
+#### \[79\] [General-Purpose Question-Answering with Macaw](https://arxiv.org/abs/2109.02593)      ```6 September, 2021```
+*AUTHOR*
+
+#### \[78\] [An Empirical Study on Few-shot Knowledge Probing for Pretrained Language Models](https://arxiv.org/abs/2109.02772)      ```6 September, 2021```
+*AUTHOR*
+
+#### \[77\] [Finetuned Language Models Are Zero-Shot Learners](https://arxiv.org/abs/2109.01652)      ```3 September, 2021```
+*AUTHOR*
+
+#### \[76\] [Do Prompt-Based Models Really Understand the Meaning of their Prompts?](https://arxiv.org/abs/2109.01247)      ```2 September, 2021```
+*AUTHOR*
+
+#### \[75\] [ConQX: Semantic Expansion of Spoken Queries for Intent Detection based on Conditioned Text Generation](https://arxiv.org/abs/2109.00729)      ```2 September, 2021```
+*AUTHOR*
+
+#### \[74\] [Learning to Prompt for Vision-Language Models](https://arxiv.org/abs/2109.01134)      ```2 September, 2021```
+*AUTHOR*
+
+#### \[73\] [LightNER: A Lightweight Generative Framework with Prompt-guided Attention for Low-resource NER](https://arxiv.org/abs/2109.00720)      ```31 August, 2021```
+*AUTHOR*
+
+#### \[72\] [Want To Reduce Labeling Cost? GPT-3 Can Help](https://arxiv.org/abs/2108.13487)      ```30 August, 2021```
+*AUTHOR*
+
+#### \[71\] [Differentiable Prompt Makes Pre-trained Language Models Better Few-shot Learners](https://arxiv.org/abs/2108.13161)      ```30 August, 2021```
+*AUTHOR*
+
+#### \[70\] [Prompt-Learning for Fine-Grained Entity Typing](https://arxiv.org/abs/2108.10604)      ```24 August, 2021```
+*AUTHOR*
+
+#### \[69\] [Noisy Channel Language Model Prompting for Few-Shot Text Classification](https://arxiv.org/abs/2108.04106)      ```9 August, 2021```
+*AUTHOR*
+
+#### \[68\] [Knowledgeable Prompt-tuning: Incorporating Knowledge into Prompt Verbalizer for Text Classification](https://arxiv.org/abs/2108.02035)      ```4 August, 2021```
+*AUTHOR*
+
+
 #### \[67\] [Unifying Vision-and-Language Tasks via Text Generation](https://arxiv.org/pdf/2102.02779.pdf)      ```2021-05-23``` 
 *Jaemin Cho, Jie Lei, Hao Tan, Mohit Bansal* 
 
