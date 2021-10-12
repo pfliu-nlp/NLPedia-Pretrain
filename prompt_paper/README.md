@@ -2,94 +2,94 @@
 <img src="../fig/talk.png" width="600" class="center">
 
 #### \[97\] [Revisiting Self-Training for Few-Shot Learning of Language Model](https://arxiv.org/pdf/2110.01256.pdf)      ```04 October, 2021```
-*AUTHOR*
+*Yiming Chen, Yan Zhang, Chen Zhang, Grandee Lee, Ran Cheng, Haizhou Li*
 
 #### \[96\] [Towards Zero-Label Language Learning](https://arxiv.org/abs/2109.09193)      ```19 September, 2021```
-*AUTHOR*
+*Zirui Wang, Adams Wei Yu, Orhan Firat, Yuan Cao*
 
 #### \[95\] [SentiPrompt: Sentiment Knowledge Enhanced Prompt-Tuning for Aspect-Based Sentiment Analysis](https://arxiv.org/abs/2109.08306)      ```17 September, 2021```
-*AUTHOR*
+*Chengxi Li, Feiyu Gao, Jiajun Bu, Lu Xu, Xiang Chen, Yu Gu, Zirui Shao, Qi Zheng, Ningyu Zhang, Yongpan Wang, Zhi Yu*
 
 #### \[94\] [Reframing Instructional Prompts to GPTk's Language](https://arxiv.org/abs/2109.07830)      ```16 September, 2021```
-*AUTHOR*
+*Swaroop Mishra, Daniel Khashabi, Chitta Baral, Yejin Choi, Hannaneh Hajishirzi*
 
 #### \[93\] [Language Models are Few-shot Multilingual Learners](https://arxiv.org/abs/2109.07684)      ```16 September, 2021```
-*AUTHOR*
+*Genta Indra Winata, Andrea Madotto, Zhaojiang Lin, Rosanne Liu, Jason Yosinski, Pascale Fung*
 
 #### \[92\] [Can Language Models be Biomedical Knowledge Bases? ](https://arxiv.org/abs/2109.07154)      ```15 September, 2021```
-*AUTHOR*
+*Mujeen Sung, Jinhyuk Lee, Sean Yi, Minji Jeon, Sungdong Kim, Jaewoo Kang*
 
 #### \[91\] [Dialogue State Tracking with a Language Model using Schema-Driven Prompting](https://arxiv.org/abs/2109.07506)      ```15 September, 2021```
-*AUTHOR*
+*Chia-Hsuan Lee, Hao Cheng, Mari Ostendorf*
 
 #### \[90\] [Exploring Prompt-based Few-shot Learning for Grounded Dialog Generation](https://arxiv.org/abs/2109.06513)      ```14 September, 2021```
-*AUTHOR*
+*Chujie Zheng, Minlie Huang*
 
 #### \[89\] [Eliciting Knowledge from Language Models for Event Extraction](https://arxiv.org/abs/2109.05190)      ```11 September, 2021```
-*AUTHOR*
+*Jiaju Lin, Jin Jian, Qin Chen*
 
 #### \[88\] [An Empirical Study of GPT-3 for Few-Shot Knowledge-Based VQA](https://arxiv.org/abs/2109.05014)      ```10 September, 2021```
-*AUTHOR*
+*Zhengyuan Yang, Zhe Gan, Jianfeng Wang, Xiaowei Hu, Yumao Lu, Zicheng Liu, Lijuan Wang*
 
 #### \[87\] [CINS: Comprehensive Instruction for Few-shot Learning in Task-oriented Dialog Systems](https://arxiv.org/abs/2109.04645)      ```10 September, 2021```
-*AUTHOR*
+*Fei Mi, Yitong Li, Yasheng Wang, Xin Jiang, Qun Liu*
 
 #### \[86\] [PPT: Pre-trained Prompt Tuning for Few-shot Learning](https://arxiv.org/abs/2109.04332)      ```9 September, 2021```
-*AUTHOR*
+*Yuxian Gu, Xu Han, Zhiyuan Liu, Minlie Huang*
 
 #### \[85\] [Avoiding Inference Heuristics in Few-shot Prompt-based Finetuning](https://arxiv.org/abs/2109.04144)      ```9 September, 2021```
-*AUTHOR*
+*Prasetya Ajie Utama, Nafise Sadat Moosavi, Victor Sanh, Iryna Gurevych*
 
 #### \[84\] [Continuous Entailment Patterns for Lexical Inference in Context](https://arxiv.org/abs/2109.03695)      ```8 September, 2021```
-*AUTHOR*
+*Martin Schmitt, Hinrich Schütze*
 
 #### \[83\] [A Recipe For Arbitrary Text Style Transfer with Large Language Models](https://arxiv.org/abs/2109.03910)      ```8 September, 2021```
-*AUTHOR*
+*Emily Reif, Daphne Ippolito, Ann Yuan, Andy Coenen, Chris Callison-Burch, Jason Wei*
 
 #### \[82\] [Open Aspect Target Sentiment Classification with Natural Language Prompts](https://arxiv.org/abs/2109.03685)      ```8 September, 2021```
-*AUTHOR*
+*Ronald Seoh, Ian Birle, Mrinal Tak, Haw-Shiuan Chang, Brian Pinette, Alfred Hough*
 
 #### \[81\] [Discrete and Soft Prompting for Multilingual Models](https://arxiv.org/abs/2109.03630)      ```8 September, 2021```
-*AUTHOR*
+*Mengjie Zhao, Hinrich Schütze*
 
 #### \[80\] [NSP-BERT: A Prompt-based Zero-Shot Learner Through an Original Pre-training Task--Next Sentence Prediction](https://arxiv.org/abs/2109.03564)      ```8 September, 2021```
-*AUTHOR*
+*Yi Sun, Yu Zheng, Chao Hao, Hangping Qiu*
 
 #### \[79\] [General-Purpose Question-Answering with Macaw](https://arxiv.org/abs/2109.02593)      ```6 September, 2021```
-*AUTHOR*
+*Oyvind Tafjord, Peter Clark*
 
 #### \[78\] [An Empirical Study on Few-shot Knowledge Probing for Pretrained Language Models](https://arxiv.org/abs/2109.02772)      ```6 September, 2021```
-*AUTHOR*
+*Tianxing He, Kyunghyun Cho, James Glass*
 
 #### \[77\] [Finetuned Language Models Are Zero-Shot Learners](https://arxiv.org/abs/2109.01652)      ```3 September, 2021```
-*AUTHOR*
+*Jason Wei, Maarten Bosma, Vincent Y. Zhao, Kelvin Guu, Adams Wei Yu, Brian Lester, Nan Du, Andrew M. Dai, Quoc V. Le*
 
 #### \[76\] [Do Prompt-Based Models Really Understand the Meaning of their Prompts?](https://arxiv.org/abs/2109.01247)      ```2 September, 2021```
-*AUTHOR*
+*Albert Webson, Ellie Pavlick*
 
 #### \[75\] [ConQX: Semantic Expansion of Spoken Queries for Intent Detection based on Conditioned Text Generation](https://arxiv.org/abs/2109.00729)      ```2 September, 2021```
-*AUTHOR*
+*Eyup Halit Yilmaz, Cagri Toraman*
 
 #### \[74\] [Learning to Prompt for Vision-Language Models](https://arxiv.org/abs/2109.01134)      ```2 September, 2021```
-*AUTHOR*
+*Kaiyang Zhou, Jingkang Yang, Chen Change Loy, Ziwei Liu*
 
 #### \[73\] [LightNER: A Lightweight Generative Framework with Prompt-guided Attention for Low-resource NER](https://arxiv.org/abs/2109.00720)      ```31 August, 2021```
-*AUTHOR*
+*Xiang Chen, Ningyu Zhang, Lei Li, Xin Xie, Shumin Deng, Chuanqi Tan, Fei Huang, Luo Si, Huajun Chen*
 
 #### \[72\] [Want To Reduce Labeling Cost? GPT-3 Can Help](https://arxiv.org/abs/2108.13487)      ```30 August, 2021```
-*AUTHOR*
+*Shuohang Wang, Yang Liu, Yichong Xu, Chenguang Zhu, Michael Zeng*
 
 #### \[71\] [Differentiable Prompt Makes Pre-trained Language Models Better Few-shot Learners](https://arxiv.org/abs/2108.13161)      ```30 August, 2021```
-*AUTHOR*
+*Ningyu Zhang, Luoqiu Li, Xiang Chen, Shumin Deng, Zhen Bi, Chuanqi Tan, Fei Huang, Huajun Chen*
 
 #### \[70\] [Prompt-Learning for Fine-Grained Entity Typing](https://arxiv.org/abs/2108.10604)      ```24 August, 2021```
-*AUTHOR*
+*Ning Ding, Yulin Chen, Xu Han, Guangwei Xu, Pengjun Xie, Hai-Tao Zheng, Zhiyuan Liu, Juanzi Li, Hong-Gee Kim*
 
 #### \[69\] [Noisy Channel Language Model Prompting for Few-Shot Text Classification](https://arxiv.org/abs/2108.04106)      ```9 August, 2021```
-*AUTHOR*
+*Sewon Min, Mike Lewis, Hannaneh Hajishirzi, Luke Zettlemoyer*
 
 #### \[68\] [Knowledgeable Prompt-tuning: Incorporating Knowledge into Prompt Verbalizer for Text Classification](https://arxiv.org/abs/2108.02035)      ```4 August, 2021```
-*AUTHOR*
+*Shengding Hu, Ning Ding, Huadong Wang, Zhiyuan Liu, Juanzi Li, Maosong Sun*
 
 
 #### \[67\] [Unifying Vision-and-Language Tasks via Text Generation](https://arxiv.org/pdf/2102.02779.pdf)      ```2021-05-23``` 
